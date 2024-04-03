@@ -20,7 +20,7 @@
         "oldpak/annotations": "^1.0"
     },
     "require-dev": {
-        "doctrine/coding-standard": "^9",
+        "oldpak/coding-standard": "^1.0",
         "oldpak/common": "^1.0",
         "phpstan/phpstan": "^1.4.10",
         "phpstan/phpstan-phpunit": "^1",
