@@ -45,6 +45,5 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         },
         "sort-packages": true
-    },
-    "abandoned": "roave/better-reflection"
+    }
 }
